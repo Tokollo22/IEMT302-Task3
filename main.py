@@ -1,3 +1,4 @@
+\A#!/.*python3?$
 from sklearn.linear_model import LinearRegression
 
 # Training data
